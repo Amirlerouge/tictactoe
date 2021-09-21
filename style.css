@@ -1,0 +1,50 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 5px;
+  grid-gap: 10px;
+
+}
+
+ 
+
+  .element {
+    border-radius: 20px;
+
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background: #ce8288;
+    position: relative;
+    margin-left: auto; margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%
+  }
+  
+.name{
+  border-radius: 20px;
+  margin-left: auto; margin-right: auto;
+
+
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: #3CBC8D;
+  color: white;
+}
+
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #3CBC8D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
