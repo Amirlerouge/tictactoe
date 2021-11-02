@@ -1,3 +1,4 @@
-# tictactoe
+# Tictactoe ❌⭕
 
-Vibing with a simple Tictactoe, no AI
+
+Simple playable Tictactoe, no AI
